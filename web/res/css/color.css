@@ -1,0 +1,46 @@
+.bg-color-default-tran8 {
+    background-color: rgba(240, 240, 240, 0.8);
+}
+.bg-color-default-tran6 {
+    background-color: rgba(240, 240, 240, 0.6);
+}
+.bg-color-default-tran4 {
+    background-color: rgba(240, 240, 240, 0.4);
+}
+.bg-color-default-tran2 {
+    background-color: rgba(240, 240, 240, 0.2);
+}
+.bg-color-default-tran {
+    background-color: rgba(240, 240, 240, 0.0);
+}
+
+.bg-color-sider {
+    background-color: #8a57ea;
+}
+
+.bg-color-red {
+    background-color: red;
+}
+.bg-color-green {
+    background-color: green;
+}
+.bg-color-blue {
+    background-color: blue;
+}
+
+.fg-lcolor-sider {
+    background: linear-gradient(226.64deg,#32c5ff -7.61%,#b620e0 51.53%,#f7b500 101.71%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: color 2s ease;
+}
+.fg-color-gray {
+    color: #f7f7f8;
+}
+.fg-color-gray-black {
+    color: #b8b8b8;
+}
+
+.fg-color-red {
+    color: red;
+}
